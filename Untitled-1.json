@@ -1,0 +1,26 @@
+{
+  "Python": [
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "9", "Error"],
+      "answer": "8"
+    },
+    {
+      "question": "Which keyword is used to create a function in Python?",
+      "options": ["func", "define", "def", "lambda"],
+      "answer": "def"
+    }
+  ],
+  "Math": [
+    {
+      "question": "What is 5 + 7?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "question": "What is the square root of 16?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    }
+  ]
+}
